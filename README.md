@@ -7,7 +7,7 @@ METU Ceng 499 - Special Topics: Introduction to Machine Learning
 Implements a 10-class classifier on the well-known CIFAR 10 dataset, and applies hyperparameter tuning via grid search. Details can be found under the relative directory.
 
 ### hw2: 
-KNN, K-means, and hierarchical agglomerative clustering (hac) have been implemented in different files whose details can be found in the relative sections under the hw2 directory.
+KNN, K-means, and hierarchical agglomerative clustering (hac) have been implemented, whose details can be found in the relative sections under the hw2 directory.
 
 ### hw3:
 Decision tree and some tests with SVMs are implemented here whose details can be found under the hw3 directory. 
