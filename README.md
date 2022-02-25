@@ -18,4 +18,4 @@ KNN, K-means, and hierarchical agglomerative clustering (hac) have been implemen
 Decision tree and some tests with SVMs are implemented here whose details can be found under the hw3 directory. 
 
 ### hw4:
-Naive Bayes and HMM algorithms are implemented. Further, a sentiment analyzer using the naive Bayes algorithm is implemented. Details can be found under the hw3 directory. 
+Naive Bayes and HMM algorithms are implemented. Further, a sentiment analyzer using the naive Bayes algorithm is implemented. Details can be found under the hw4 directory. 
